@@ -10,6 +10,21 @@ print(bool(myobj))
 print(bool(myobj)) 
 
 
+print(bool(myobj)) 
+
+
+print(bool(myobj)) 
+
+
+print(bool(myobj)) 
+
+
+print(bool(myobj)) 
+
+
+print(bool(myobj)) 
+
+
 
 
 
