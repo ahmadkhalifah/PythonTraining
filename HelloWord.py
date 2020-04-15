@@ -1,30 +1,5 @@
-class myclass():
-  def __len__(self):
-    return 5>4
+class MyClass:
+  x = 5
 
-myobj = myclass()
-print(bool(myobj))  
-
-print(bool(myobj)) 
-
-print(bool(myobj)) 
-
-
-print(bool(myobj)) 
-
-
-print(bool(myobj)) 
-
-
-print(bool(myobj)) 
-
-
-print(bool(myobj)) 
-
-
-print(bool(myobj)) 
-
-
-
-
-
+p1 = MyClass()
+print(p1.x)
